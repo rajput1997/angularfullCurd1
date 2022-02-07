@@ -1,0 +1,1 @@
+# angularfullCurd1
